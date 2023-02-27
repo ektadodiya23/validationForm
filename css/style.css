@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-part {
+    background-color: #436685;
+}
+
+.section-part {
+    font-family: emoji;
+}
+
+.user-part {
+    font-size: 22px;
+}
+
+.input-box {
+    padding: 4px 18% 4px 12px;
+}
+.sub-btn{
+    border: none !important;
+    background-color: rgb(7, 68, 92);
+}
